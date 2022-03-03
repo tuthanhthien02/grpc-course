@@ -1,0 +1,7 @@
+syntax="proto3";
+
+package caculator;
+
+option go_package="./caculatorpb";
+
+service Calulator {}
